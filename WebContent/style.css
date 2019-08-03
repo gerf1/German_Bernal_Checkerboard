@@ -1,0 +1,41 @@
+.container {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+.row, .col {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+}
+
+h1 {
+	fontsize:20px;
+}
+h2 {
+	color:red;
+}
+.row .blue {
+	background-color: blue;
+	width: 60px;
+	height: 60px;
+
+}
+.row .purple {
+	background-color: purple;
+	width: 60px;
+	height: 60px;
+
+}
+.col .purple {
+	background-color: purple;
+	width: 60px;
+	height: 60px;
+	]
+}
+.col .blue {
+	background-color: blue;
+	width: 60px;
+	height: 60px;
+	
+};
